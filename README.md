@@ -1,5 +1,7 @@
 # useful-readings
 
+Just a list of articles we take inspiration from
+
 ## Rails
 
 - Rails service objects: http://multithreaded.stitchfix.com/blog/2015/06/02/anatomy-of-service-objects-in-rails/
