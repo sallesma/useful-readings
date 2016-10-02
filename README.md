@@ -13,6 +13,7 @@ Just a list of articles we take inspiration from
 - http://javascriptissexy.com/understand-javascript-closures-with-ease/
 - http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 - https://github.com/nzakas/understandinges6
+- http://eloquentjavascript.net/index.html
 
 ## Git
 
