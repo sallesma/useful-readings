@@ -19,3 +19,7 @@ Just a list of articles we take inspiration from
 
 - https://git-scm.com/book/en/v2
 - http://www.alexkras.com/19-git-tips-for-everyday-use/
+
+## Devops
+
+- https://github.com/open-guides/og-aws
