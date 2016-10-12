@@ -1,6 +1,6 @@
 # useful-readings
 
-Just a list of articles we take inspiration from
+Just a list of sources we take inspiration from. Feel free to contribute.
 
 ## Rails
 
