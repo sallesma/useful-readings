@@ -14,7 +14,7 @@ Just a list of sources we take inspiration from. Feel free to contribute.
 - http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 - https://github.com/nzakas/understandinges6
 - http://eloquentjavascript.net/index.html
-- http://jstherightway.org/#js-code-style
+- http://jstherightway.org/
 - https://www.thinkful.com/learn/javascript-best-practices-1/#Stick-to-a-Strict-Coding-Style
 
 ## Git
