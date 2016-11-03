@@ -25,3 +25,6 @@ Just a list of sources we take inspiration from. Feel free to contribute.
 ## Devops
 
 - https://github.com/open-guides/og-aws
+
+## Thread safe?
+- https://blogs.msdn.microsoft.com/ericlippert/2009/10/19/what-is-this-thing-you-call-thread-safe?
