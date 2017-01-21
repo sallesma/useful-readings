@@ -2,9 +2,13 @@
 
 Just a list of sources to take inspiration from. Feel free to contribute.
 
+## General
+
+- Naming: http://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager
+
 ## Rails
 
-- Use of PORO to prevent fat models : http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
+- Use of PORO to prevent fat models: http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
 - Rails service objects: http://multithreaded.stitchfix.com/blog/2015/06/02/anatomy-of-service-objects-in-rails/
 - Good test practices: http://betterspecs.org/
 - https://teamgaslight.com/blog/40-plus-resources-for-building-robust-rails-applications
