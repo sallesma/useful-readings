@@ -6,6 +6,7 @@ Just a list of sources to take inspiration from. Feel free to contribute.
 
 - Naming: http://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager
 - Performance: https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html
+- Hype: https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22
 
 ## Rails
 
