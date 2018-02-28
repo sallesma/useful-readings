@@ -26,6 +26,10 @@ Just a list of sources to take inspiration from. Feel free to contribute.
 - http://jstherightway.org/
 - https://www.thinkful.com/learn/javascript-best-practices-1/#Stick-to-a-Strict-Coding-Style
 
+## CSS
+- http://flexboxfroggy.com/
+- http://www.flexboxdefense.com/
+
 ## Git
 
 - https://git-scm.com/book/en/v2
