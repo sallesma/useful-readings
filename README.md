@@ -15,6 +15,7 @@ Just a list of sources to take inspiration from. Feel free to contribute.
 - Rails service objects: http://multithreaded.stitchfix.com/blog/2015/06/02/anatomy-of-service-objects-in-rails/
 - Good test practices: http://betterspecs.org/
 - https://teamgaslight.com/blog/40-plus-resources-for-building-robust-rails-applications
+- Thoughts about ActiveRecord pitfalls :  https://speakerdeck.com/radar/exploding-rails
 
 ## Javascript
 
