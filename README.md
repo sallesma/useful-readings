@@ -8,6 +8,8 @@ Just a list of sources to take inspiration from. Feel free to contribute.
 - Performance: https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html
 - Hype: https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22
 - Complexity and Churn: https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth
+- Monolith first: https://martinfowler.com/bliki/MonolithFirst.html
+- The Clean Architecture: https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
 
 ## Rails
 
