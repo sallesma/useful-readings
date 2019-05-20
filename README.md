@@ -18,6 +18,7 @@ Just a list of sources to take inspiration from. Feel free to contribute.
 - Good test practices: http://betterspecs.org/
 - https://teamgaslight.com/blog/40-plus-resources-for-building-robust-rails-applications
 - Thoughts about ActiveRecord pitfalls :  https://speakerdeck.com/radar/exploding-rails
+- The Lifecycle of a Request : https://blog.skylight.io/the-lifecycle-of-a-request/
 
 ## Javascript
 
